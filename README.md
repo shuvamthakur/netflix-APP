@@ -23,3 +23,16 @@ Start with API Key, We use TMDB (The Movie Database)
 👉Build the Banner👈
 👉Build the NavBar👈
 👉Add Trailer Popups👈
+👉Deploying to firebase👈
+    💻go to terminal and use the fire base tools installed when firebase login
+    👉 $ firebase login
+    👉 $ firebase init hosting
+    👉 $ use an existing project ---> netflix-clone
+    👉 $ ❓what do you want to use as your public directory? ---> ✔️build 
+    👉 $ configure as SPA so y
+    👉 read through the different prompts
+    👉 then in the app directory $npm run build to build the app 
+    👉$ firebase deploy to deploy
+
+
+
